@@ -1,0 +1,1 @@
+library menu_core;
